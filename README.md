@@ -2,9 +2,9 @@
 
 This project is a responsive web-based dashboard designed to display data, statistics, and analytics in a clean and user-friendly interface. It is built using **HTML**, **CSS**, and **JavaScript**, focusing on modern UI/UX principles.
 
-## ✨ Features
+### ✨ Features
 
-- 📈 **Dynamic charts and graphs** for data visualization
+- 📈 **Dynamic charts and graphs*** for data visualization
 - 📱 **Fully responsive design** for desktop, tablet, and mobile
 - 🎨 **Modern and minimal UI** with a focus on readability
 - ⚡ **Fast loading** and optimized for performance
