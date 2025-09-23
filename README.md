@@ -1,4 +1,4 @@
-# Responsive Web-Based Dashboard
+### Responsive Web-Based Dashboard
 
 This project is a responsive web-based dashboard designed to display data, statistics, and analytics in a clean and user-friendly interface. It is built using **HTML**, **CSS**, and **JavaScript**, focusing on modern UI/UX principles.
 
