@@ -14,7 +14,7 @@ This project is a responsive web-based dashboard designed to display data, stati
 You can view the dashboard live here:  
 [🔗 View Dashboard](https://mqanass.github.io/dachborad/#) <!-- Replace # with your live demo URL if available -->
 
-## 🛠️ Technologies Used
+### 🛠️ Technologies Used
 
 - **HTML5** – Semantic structure
 - **CSS3** – Styling and layout (Flexbox, Grid)
