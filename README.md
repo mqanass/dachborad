@@ -20,7 +20,7 @@ You can view the dashboard live here:
 - **CSS3** – Styling and layout (Flexbox, Grid)
 - **JavaScript (ES6+)** – Interactivity and dynamic updates
 
-## 📌 How to Use
+### 📌 How to Use
 
 1. **Clone the repository:**
    ```bash
